@@ -1,0 +1,54 @@
+[
+  {
+    "name": "django_migrations",
+    "seq": 19
+  },
+  {
+    "name": "django_content_type",
+    "seq": 21
+  },
+  {
+    "name": "auth_permission",
+    "seq": 84
+  },
+  {
+    "name": "auth_group",
+    "seq": 0
+  },
+  {
+    "name": "main_app_attendance",
+    "seq": 0
+  },
+  {
+    "name": "django_admin_log",
+    "seq": 0
+  },
+  {
+    "name": "main_app_customuser",
+    "seq": 6
+  },
+  {
+    "name": "main_app_admin",
+    "seq": 3
+  },
+  {
+    "name": "main_app_course",
+    "seq": 4
+  },
+  {
+    "name": "main_app_session",
+    "seq": 1
+  },
+  {
+    "name": "main_app_staff",
+    "seq": 2
+  },
+  {
+    "name": "main_app_subject",
+    "seq": 2
+  },
+  {
+    "name": "main_app_student",
+    "seq": 1
+  }
+]

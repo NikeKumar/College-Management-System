@@ -1,0 +1,9 @@
+dj-database-url
+gunicorn
+psycopg2
+whitenoise
+pillow
+requests
+Django
+mysql-connector
+opencv-python

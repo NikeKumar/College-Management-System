@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "admin_id": 2,
+    "course_id": 3
+  },
+  {
+    "id": 2,
+    "admin_id": 3,
+    "course_id": 3
+  }
+]

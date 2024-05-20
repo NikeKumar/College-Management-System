@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "app_label": "admin",
+    "model": "logentry"
+  },
+  {
+    "id": 2,
+    "app_label": "auth",
+    "model": "permission"
+  },
+  {
+    "id": 3,
+    "app_label": "auth",
+    "model": "group"
+  },
+  {
+    "id": 4,
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  },
+  {
+    "id": 5,
+    "app_label": "sessions",
+    "model": "session"
+  },
+  {
+    "id": 6,
+    "app_label": "main_app",
+    "model": "customuser"
+  },
+  {
+    "id": 7,
+    "app_label": "main_app",
+    "model": "attendance"
+  },
+  {
+    "id": 8,
+    "app_label": "main_app",
+    "model": "course"
+  },
+  {
+    "id": 9,
+    "app_label": "main_app",
+    "model": "session"
+  },
+  {
+    "id": 10,
+    "app_label": "main_app",
+    "model": "staff"
+  },
+  {
+    "id": 11,
+    "app_label": "main_app",
+    "model": "student"
+  },
+  {
+    "id": 12,
+    "app_label": "main_app",
+    "model": "subject"
+  },
+  {
+    "id": 13,
+    "app_label": "main_app",
+    "model": "studentresult"
+  },
+  {
+    "id": 14,
+    "app_label": "main_app",
+    "model": "notificationstudent"
+  },
+  {
+    "id": 15,
+    "app_label": "main_app",
+    "model": "notificationstaff"
+  },
+  {
+    "id": 16,
+    "app_label": "main_app",
+    "model": "leavereportstudent"
+  },
+  {
+    "id": 17,
+    "app_label": "main_app",
+    "model": "leavereportstaff"
+  },
+  {
+    "id": 18,
+    "app_label": "main_app",
+    "model": "feedbackstudent"
+  },
+  {
+    "id": 19,
+    "app_label": "main_app",
+    "model": "feedbackstaff"
+  },
+  {
+    "id": 20,
+    "app_label": "main_app",
+    "model": "attendancereport"
+  },
+  {
+    "id": 21,
+    "app_label": "main_app",
+    "model": "admin"
+  }
+]
